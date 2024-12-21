@@ -1,2 +1,8 @@
 frontend/node_modules
-backend/uploads/*
+
+
+# Ignore all files in the uploads folder
+uploads/*
+
+# Allow the uploads folder to be tracked
+!backend/uploads/.gitkeep
