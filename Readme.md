@@ -24,6 +24,10 @@ image_descripter/
     │   │   └── ImageUpload.css    # Styles for the image upload component
     │   ├── index.js              # Entry point for the React application
     │   └── App.css               # Styles for the main application
+│
+└── images/                       # Directory for screenshots
+    ├── screenshot1.png           # Example screenshot of the application
+    ├── screenshot2.png           # Another example screenshot
 ```
 
 ## Setup Instructions
@@ -87,6 +91,12 @@ image_descripter/
 2. Use the upload area to select an image file (supports JPG, PNG, GIF).
 3. Click the "Generate Description" button to upload the image.
 4. The application will display the generated text description of the image.
+
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+![Screenshot 1](images/evidence.png)
 
 ## Technologies Used
 
